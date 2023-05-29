@@ -4,6 +4,10 @@ height: 100%;
 font-family:  "Inconsolata", sans-serif;
 }
 
+.w3-top, .w3-bottom {
+    display: flex !important;
+}
+
 .bgimg{
 background-position: center;
 background-size: cover;
